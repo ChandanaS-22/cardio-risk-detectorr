@@ -47,6 +47,8 @@ Make sure you have the following Python packages installed:
 - 🧠 `tensorflow` – For loading and running the trained deep learning model
 - 🔢 `numpy` – For numerical computations
 - 📷 `opencv-python` – For image validation and preprocessing
+## 🤝 Contributors 
+This is a collaborative project developed by Chandana S and teammates as part of a team effort in ECG image classification using deep learning and Flask.
 
 To install all at once:
 ```bash
